@@ -1,1 +1,1 @@
-# registration form.php
+#  simple registration form.php with mysql
